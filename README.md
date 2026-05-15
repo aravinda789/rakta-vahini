@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rakta-Vahini (रक्तवाहिनी) 🩸
 
 ![Banner](assets/banner.png)
@@ -55,3 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Built with ❤️ for a better tomorrow.
+=======
+# rakta-vahini
+Rakta-Vahini – Emergency Blood Search Application
+>>>>>>> 26de0d2dc5d313ad587369fc7fd1a3b6ad48d472
