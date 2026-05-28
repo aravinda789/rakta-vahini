@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Rakta-Vahini (रक्तवाहिनी) 🩸
+# Rakta-Vahini 🩸
 
 ![Banner](assets/banner.png)
 
